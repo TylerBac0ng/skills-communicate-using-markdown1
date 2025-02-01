@@ -12,4 +12,4 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
 
-created h1,h3,h6 comments that say blahblah, added image of yaktocat, initialized git repository
+created h1,h3,h6 comments that say blahblah, added image of yaktocat, initialized git repository, added checklist
